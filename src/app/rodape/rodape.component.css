@@ -1,0 +1,17 @@
+.bgrodape{
+    background-color: #C03CFF;
+}
+
+.logo-size{
+    width: 128px;
+    height:  128px;
+}
+
+ul.membros{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+a {
+    color: white;
+}
